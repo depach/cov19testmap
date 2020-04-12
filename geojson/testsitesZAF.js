@@ -176,34 +176,51 @@ var testsitesZAF =
     {
       "type": "Feature",
       "properties": {
-        "name": "Ampath Pickering Street Laboratory",
-        "address": "13 Pickering Street, Newton Park, Port Elizabeth, South Africa",
-        "contact": "+27 41 396 9513",
-        "web": "https://www.ampath.co.za/covid-19-collection-sites",
-        "comment": "Forms required - https://www.ampath.co.za/covid-19-patients-resources"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.571405,
-          -33.947491 
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ampath East London",
         "address": "58 St James Street, Southernwood, East London, South Africa",
         "contact": "+27 43 703 4318",
-        "web": "https://www.ampath.co.za/covid-19-collection-sites",
-        "comment": "Forms required - https://www.ampath.co.za/covid-19-patients-resources"
+        "web": "https://www.ampath.co.za/covid-19-patients-resources",
+        "comment": "Drive through collection site"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           27.904451,
           -32.999755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampath Grahamstown",
+        "address": "Peppergrove Mall Shop 26, Grahamstown, South Africa",
+        "contact": "+27 46 622 9757",
+        "web": "https://www.ampath.co.za/covid-19-patients-resources",
+        "comment": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.522380,
+          -33.308474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampath Pickering Street Laboratory",
+        "address": "13 Pickering Street, Newton Park, Port Elizabeth, South Africa",
+        "contact": "+27 41 396 9513",
+        "web": "https://www.ampath.co.za/covid-19-patients-resources",
+        "comment": "Drive through collection site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.571405,
+          -33.947491 
         ]
       }
     },
