@@ -210,6 +210,40 @@ var testsitesZAF =
     {
       "type": "Feature",
       "properties": {
+        "name": "Ampath Jeffreys Bay",
+        "address": "Cnr Da Gama & Schelde Street, Jeffreys Bay, South Africa",
+        "contact": "+27 42 293 1759",
+        "web": "https://www.ampath.co.za/covid-19-patients-resources",
+        "comment": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.923060,
+          -34.050103 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampath King William's Town Depot",
+        "address": "Abuntu Mall Shop 4 and 5, King William's Town, South Africa",
+        "contact": "+27 43 642 2025",
+        "web": "https://www.ampath.co.za/covid-19-patients-resources",
+        "comment": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.387759,
+          -32.879914 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ampath Pickering Street Laboratory",
         "address": "13 Pickering Street, Newton Park, Port Elizabeth, South Africa",
         "contact": "+27 41 396 9513",
