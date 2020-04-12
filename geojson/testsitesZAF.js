@@ -244,6 +244,23 @@ var testsitesZAF =
     {
       "type": "Feature",
       "properties": {
+        "name": "Ampath Mthatha Laboratory",
+        "address": "30 Durham Street, Mthatha, South Africa",
+        "contact": "+27 47 505 6508",
+        "web": "https://www.ampath.co.za/covid-19-patients-resources",
+        "comment": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.785325,
+          -31.591450 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ampath Pickering Street Laboratory",
         "address": "13 Pickering Street, Newton Park, Port Elizabeth, South Africa",
         "contact": "+27 41 396 9513",
