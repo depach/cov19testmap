@@ -220,7 +220,7 @@ var testsitesZAF =
         "type": "Point",
         "coordinates": [
           24.923060,
-          -34.050103 
+          -34.050103
         ]
       }
     },
@@ -237,7 +237,7 @@ var testsitesZAF =
         "type": "Point",
         "coordinates": [
           27.387759,
-          -32.879914 
+          -32.879914
         ]
       }
     },
@@ -254,7 +254,7 @@ var testsitesZAF =
         "type": "Point",
         "coordinates": [
           28.785325,
-          -31.591450 
+          -31.591450
         ]
       }
     },
@@ -271,7 +271,24 @@ var testsitesZAF =
         "type": "Point",
         "coordinates": [
           25.571405,
-          -33.947491 
+          -33.947491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampath Queenstown Laboratory",
+        "address": "26 Ebdon Street, Queenstown, South Africa",
+        "contact": "+27 45 838 2332",
+        "web": "https://www.ampath.co.za/covid-19-patients-resources",
+        "comment": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.876314,
+          -31.896105
         ]
       }
     },
